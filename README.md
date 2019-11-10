@@ -32,7 +32,7 @@ Display the current time in an analog clock!
 
 It's a happy, randomly-generated town, so it's different every time!
 
-![RandomTownScreenshot](https://github.com/sosavle/CPP-Graphical-Programming/blob/master/Screenshots/HappyTown.png)
+![RandomTownScreenshot](https://github.com/sosavle/CPP-Graphical-Programming/blob/master/Screenshots/HappyTown.PNG)
 
 # Maze
 
